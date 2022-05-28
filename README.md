@@ -1,75 +1,58 @@
 # Java SE 11 Developer 1Z0-819
 
 ## Exam Resources & Links
-- Course: [Oracle's Java SE 11 Course (30 Hours)](https://education.oracle.com/software/java/pFamily_48)
-- Java 11 Exam book:  [OCP Complete Study Guide](https://www.amazon.com/Oracle-Certified-Professional-Developer-Complete/dp/1119619130)
-- Java 11 Practice Tests: [OCP Java 11 Practice Tests](https://www.amazon.com/gp/product/1119696135)
+- Exam: [Oracle's Java SE 17]([https://education.oracle.com/software/java/pFamily_48](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17))
+- Java 17 Exam book:  [OCP Complete Study Guide]([https://www.amazon.com/Oracle-Certified-Professional-Developer-Complete/dp/1119619130)](https://mega.nz/file/U0tCEJia#l2pL1Xe518K3iLjp8iycnI-ZdfG1whPsAKIZY6k9SNE)
+- Java 17 Practice Tests: [Practice Tests by enthuware]([https://www.amazon.com/gp/product/1119696135](https://enthuware.com/))
 - Java 8 Exam Book (with questions, free): [good for practice maybe?](https://ocpj8.javastudyguide.com/)
 
 ## Exam topics
 
-**Java Data types**
-- [ ] Primitives
-- [ ] Wrapper classes
-- [ ] Operators
-- [ ] Parentheses
-- [ ] Type promotion
-- [ ] Type Casting
-- [ ] `String` class
-- [ ] `StringBuilder` class
-- [ ] Type inference
+**Chapter 1: Building Blocks**
+- [ ] Learning about the Environment
+- [ ] Understanding the Class Structure
+- [ ] Writing a main() Method
+- [ ] Understanding Package Declarations and Imports
+- [ ] Creating Objects
+- [ ] Understanding Data Types
+- [ ] Declaring Variables
+- [ ] Initializing Variables
+- [ ] Managing Variable Scope
+- [ ] Destroying Objects
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Controlling Program Flow**
-- [ ] Loops
-- [ ] If/else
-- [ ] Switch
+**Chapter 2: Operators*
+- [ ] Understanding Java Operators
+- [ ] Applying Unary Operators
+- [ ] Working with Binary Arithmetic Operators
+- [ ] Assigning Values
+- [ ] Comparing Values
+- [ ] Making Decisions with the Ternary Operator
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Java OOP**
-- [ ] Java objects instantiation
-- [ ] Nested Java objects instantiation
-- [ ] Java object lifecycle
-- [ ]    Object creation
-- [ ]    Dereferencing by reassignment
-- [ ]    Garbage collection
-- [ ] Object fields
-- [ ] Object methods
-- [ ]    instance
-- [ ]    static
-- [ ]    overloaded
-- [ ] Setters/ Getters
-- [ ]    builders
-- [ ] Variable scopes
-- [ ] Encapsulation
-- [ ] Immutablity
-- [ ] Subclasses/ Superclasses
-- [ ] Abstract classes
-- [ ] Polymorphism/ casting
-- [ ] Object type vs reference type
-- [ ] Interfaces
-- [ ]    functional interfaces
-- [ ]    private methods
-- [ ]    default methods
-- [ ]    static methods
-- [ ] Enums
+**Chapter 3: Making Decisions**
+- [ ] Creating Decision-Making Statements
+- [ ] Applying switch Statements
+- [ ] Writing while Loops
+- [ ] Constructing for Loops
+- [ ] Controlling Flow with Branching
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Exception handling**
-- [ ] Try/ catch/ finally
-- [ ] Try-with resource
-- [ ] Multi-catch statements
-- [ ] Custom Exceptions
+**Chapter 4: Core APIs**
+- [ ] Creating and Manipulating Strings
+- [ ] Using the StringBuilder Class
+- [ ] Understanding Equality
+- [ ] Understanding Arrays
+- [ ] Calculating with Math APIs
+- [ ] Working with Dates and Times
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Collections**
-- [ ] Generics
-- [ ]    Wildcards
-- [ ] Array
-- [ ] Collections
-- [ ]    List
-- [ ]    Set
-- [ ]    Map
-- [ ]    Deque
-- [ ]    Convenience methods
-- [ ] Comparator and comparable interfaces
-- [ ]    sorting collections
+**Chapter 5: Methods**
+- [ ] 
 
 **Streams & Lambdas**
 - [ ] Functional interfaces
