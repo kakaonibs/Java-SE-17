@@ -52,41 +52,48 @@
 - [ ] Review Questions
 
 **Chapter 5: Methods**
+- [ ] Designing Methods
+- [ ] Declaring Local and Instance Variables
+- [ ] Working with Varargs
+- [ ] Applying Access Modifiers
+- [ ] Accessing static Data
+- [ ] Passing Data among Methods
+- [ ] Overloading Methods
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 6: Class Design**
+- [ ] Understanding Inheritance
+- [ ] Creating Classes
+- [ ] Declaring Constructors
+- [ ] Initializing Objects
+- [ ] Inheriting Members
+- [ ] Creating Abstract Classes
+- [ ] Creating Immutable Objects
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 7: Beyond Classes**
+- [ ] Implementing Interfaces
+- [ ] Working with Enums
+- [ ] Sealing Classes
+- [ ] Encapsulating Data with Records
+- [ ] Creating Nested Classes
+- [ ] Understanding Polymorphism
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 8: Lambdas and Functional Interfaces**
+- [ ] Writing Simple Lambdas
+- [ ] Coding Functional Interfaces
+- [ ] Using Method References
+- [ ] Working with Built-in Functional Interfaces
+- [ ] Working with Variables in Lambdas
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 9: Collections and Generics**
 - [ ] 
-
-**Streams & Lambdas**
-- [ ] Functional interfaces
-- [ ] Lambda expressions
-- [ ] Streams
-- [ ]    Filter data
-- [ ]    Transform data
-- [ ]    Process data
-- [ ] Decomposition 
-- [ ] Reduction
-- [ ] Groupiing
-- [ ] Partitioning
-- [ ] Seqeuential streams
-- [ ] Parallel streams
-
-**JPMS**
-- [ ] Deploy modular app
-- [ ] Execute modular app
-- [ ] Expose modules
-- [ ] Services
-
-**Concurrency**
-- [ ] Runnable
-- [ ] Callable
-- [ ] ExecutorService
-- [ ] java.util.concurrent API
-- [ ] worker threads
-- [ ] Thread safe code
-- [ ] Locking mechanisms
-
-**Java I/O API**
-- [ ] Read/ Write with I/O Streams
-- [ ] Serialization/ deserializtion
-- [ ] java.nio.file API
 
 **Security**
 - [ ] DOS
