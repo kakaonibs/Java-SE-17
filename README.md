@@ -1,4 +1,4 @@
-# Java SE 11 Developer 1Z0-819
+# Java SE 17 Developer 1Z0-829
 
 ## Exam Resources & Links
 - Exam: [Oracle's Java SE 17]([https://education.oracle.com/software/java/pFamily_48](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17))
