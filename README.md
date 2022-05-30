@@ -93,23 +93,79 @@
 - [ ] Review Questions
 
 **Chapter 9: Collections and Generics**
-- [ ] 
+- [ ] Using Common Collection APIs
+- [ ] Using the List Interface
+- [ ] Using the Set Interface
+- [ ] Using the Queue and Deque Interfaces
+- [ ] Using the Map Interface
+- [ ] Comparing Collection Types
+- [ ] Sorting Data
+- [ ] Working with Generics
+- [ ] Exam Essentials
+- [ ] Review Questions 
 
-**Security**
-- [ ] DOS
-- [ ] Code Inejction
-- [ ] Input validation
-- [ ] Data integrity
-- [ ] Resource access security
+**Chapter 10: Streams**
+- [ ] Returning an Optional
+- [ ] Using Streams
+- [ ] Working with Primitive Streams
+- [ ] Working with Advanced Stream Pipeline Concepts
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**JDBC**
-- [ ] Connect to database
-- [ ] SQL operations
+**Chapter 11: Exceptions and Localization**
+- [ ] Understanding Exceptions
+- [ ] Recognizing Exception Classes
+- [ ] Handling Exceptions
+- [ ] Automating Resource Management
+- [ ] Formatting Values
+- [ ] Supporting Internationalization and Localization
+- [ ] Loading Properties with Resource Bundles
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Localization**
-- [ ] Locale
-- [ ] Resource bundles
-- [ ] Parsing/ formatting messages, dates, and numbers
+**Chapter 12: Modules**
+- [ ] Introducing Modules
+- [ ] Creating and Running a Modular Program
+- [ ] Updating Our Example for Multiple Modules
+- [ ] Diving into the Module Declaration
+- [ ] Creating a Service
+- [ ] Discovering Modules
+- [ ] Comparing Types of Modules 
+- [ ] Migrating an Application
+- [ ] Exam Essentials
+- [ ] Review Questions
+- [ ] Exam Essentials
+- [ ] Review Questions
 
-**Annotations**
-- [ ] Creating, appling, processing annotations
+**Chapter 13: Concurrency**
+- [ ] Introducing Threads
+- [ ] Creating Threads with the Concurrency API
+- [ ] Writing Thread-Safe Code
+- [ ] Using Concurrent Collections
+- [ ] Identifying Threading Problems 
+- [ ] Working with Parallel Streams
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 14: I/O**
+- [ ] Referencing Files and Directories
+- [ ] Operating on File and Path
+- [ ] Introducing I/O Streams
+- [ ] Reading and Writing Files
+- [ ] Serializing Data
+- [ ] Interacting with Users
+- [ ] Working with Advanced APIs
+- [ ] Exam Essentials
+- [ ] Review Questions
+
+**Chapter 15: JDBC**
+- [ ] Introducing Relational Databases and SQL
+- [ ] Introducing the Interfaces of JDBC
+- [ ] Connecting to a Database
+- [ ] Working with a PreparedStatement
+- [ ] Getting Data from a ResultSet
+- [ ] Calling a CallableStatement
+- [ ] Controlling Data with Transactions
+- [ ] Closing Database Resources
+- [ ] Exam Essentials
+- [ ] Review Questions
