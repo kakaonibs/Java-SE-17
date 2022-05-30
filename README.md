@@ -10,8 +10,8 @@
 
 **Chapter 1: Building Blocks**
 - [x] Learning about the Environment
-- [ ] Understanding the Class Structure
-- [ ] Writing a main() Method
+- [x] Understanding the Class Structure
+- [x] Writing a main() Method
 - [ ] Understanding Package Declarations and Imports
 - [ ] Creating Objects
 - [ ] Understanding Data Types
