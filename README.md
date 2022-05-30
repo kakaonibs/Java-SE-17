@@ -9,7 +9,7 @@
 ## Exam topics
 
 **Chapter 1: Building Blocks**
-- [ ] Learning about the Environment
+- [x] Learning about the Environment
 - [ ] Understanding the Class Structure
 - [ ] Writing a main() Method
 - [ ] Understanding Package Declarations and Imports
