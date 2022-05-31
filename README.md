@@ -12,8 +12,8 @@
 - [x] Learning about the Environment
 - [x] Understanding the Class Structure
 - [x] Writing a main() Method
-- [ ] Understanding Package Declarations and Imports
-- [ ] Creating Objects
+- [x] Understanding Package Declarations and Imports
+- [x] Creating Objects
 - [ ] Understanding Data Types
 - [ ] Declaring Variables
 - [ ] Initializing Variables
