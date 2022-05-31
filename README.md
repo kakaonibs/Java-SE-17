@@ -16,8 +16,8 @@
 - [x] Creating Objects
 - [x] Understanding Data Types
 - [x] Declaring Variables
-- [ ] Initializing Variables
-- [ ] Managing Variable Scope
+- [x] Initializing Variables
+- [x] Managing Variable Scope
 - [ ] Destroying Objects
 - [ ] Exam Essentials
 - [ ] Review Questions
