@@ -14,8 +14,8 @@
 - [x] Writing a main() Method
 - [x] Understanding Package Declarations and Imports
 - [x] Creating Objects
-- [ ] Understanding Data Types
-- [ ] Declaring Variables
+- [x] Understanding Data Types
+- [x] Declaring Variables
 - [ ] Initializing Variables
 - [ ] Managing Variable Scope
 - [ ] Destroying Objects
