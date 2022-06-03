@@ -4,7 +4,6 @@
 - Exam: [Oracle's Java SE 17](https://education.oracle.com/oracle-certified-professional-java-se-17-developer/trackp_OCPJSE17)
 - Java 17 Exam book:  [OCP Complete Study Guide](https://mega.nz/file/U0tCEJia#l2pL1Xe518K3iLjp8iycnI-ZdfG1whPsAKIZY6k9SNE)
 - Java 17 Practice Tests: [Practice Tests by enthuware](https://enthuware.com/)
-- Java 8 Exam Book (with questions, free): [good for practice maybe?](https://ocpj8.javastudyguide.com/)
 
 ## Exam topics
 
@@ -18,9 +17,9 @@
 - [x] Declaring Variables
 - [x] Initializing Variables
 - [x] Managing Variable Scope
-- [ ] Destroying Objects
-- [ ] Exam Essentials
-- [ ] Review Questions
+- [x] Destroying Objects
+- [x] Exam Essentials
+- [x] Review Questions
 
 **Chapter 2: Operators**
 - [ ] Understanding Java Operators
