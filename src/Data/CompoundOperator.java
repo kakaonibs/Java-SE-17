@@ -1,3 +1,5 @@
+package src.Data;
+
 public class CompoundOperator {
 
     public static void main(String[] args) {

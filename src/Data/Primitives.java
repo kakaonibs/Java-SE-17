@@ -1,3 +1,5 @@
+package src.Data;
+
 public class Primitives {
 
     //autoboxing in primitive types is allowed in literals

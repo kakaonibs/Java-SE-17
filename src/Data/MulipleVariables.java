@@ -1,3 +1,5 @@
+package src.Data;
+
 public class MultipleVariables {
     void sandFence() {
         String s1, s2;
